@@ -1,5 +1,5 @@
 <-- <-- 
-# - 👋 Hi, I am @ThaboNzimande
+# - 👋 Hi, I am ThaboNzimande
 # - 👀 I am a Data Scientist/Analyst.
 - 👀I am currently working on various projects to grow my Data Analytics skills
 - 🌱 I am open to Entry Level Data Analyst/Scientist Role and I am in search of Data Analyst jobs either in finance sector or any other industry
