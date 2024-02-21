@@ -1,6 +1,4 @@
-<-- <!--
-**thabonzimande/ThaboNzimande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# - 👋 Hi, I am @ThaboNzimande#
+<-- # - 👋 Hi, I am @ThaboNzimande#
 # - 👀 I am a Data Scientist/Analyst.
 - 👀I am currently working on various projects to grow my Data Analytics skills
 - 🌱 I am open to Entry Level Data Analyst/Scientist Role and I am in search of Data Analyst jobs either in finance sector or any other industry
@@ -12,5 +10,7 @@
  - Machine Learning
  - Model Deployment
 - ⭐ Fun fact: I love learning new things and I enjoy challenges because it make me think critically.
+
+  **thabonzimande/ThaboNzimande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
 -->
